@@ -1,2 +1,3 @@
-filename:
-user_artist_data.txt
+full path with filename:
+
+/project/ds5559/large_datasets/user_artist_data.txt
