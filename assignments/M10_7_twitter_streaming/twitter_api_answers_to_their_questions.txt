@@ -1,0 +1,6 @@
+QUESTION: The core use case, intent, or business purpose for your use of the Twitter APIs.
+ANSWER: The core use case and purpose is a university school project to use streamed twitter data from several 5 second intervals and aggregate tweets counts by included hashtag. 
+This is a school project to show proficiency in using streamed data.
+
+QUESTION: If you intend to analyze Tweets, Twitter users, or their content, share details about the analyses you plan to conduct, and the methods or techniques. If your use involves Tweeting, Retweeting, or liking content, share how you’ll interact with Twitter accounts, or their content.If you’ll display Twitter content off of Twitter, explain how, and where, Tweets and Twitter content will be displayed with your product or service, including whether Tweets and Twitter content will be displayed at row level, or aggregated.
+ANSWER: I only intend to analyze hashtags counts for several 5 seconds of streaming Twitter data. The code and analysis will only be shared with my university instructor. There will be no tweeting, retweeting, liking, of twitter content in my analysis. I will not be displaying twitter content off twitter, only a table of the top ten hashtags and their counts for 5 second streams of twitter data, and that will only be shared in an assignment with my instructor.
