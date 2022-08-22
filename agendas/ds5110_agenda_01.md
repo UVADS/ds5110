@@ -1,4 +1,4 @@
-
+## DS 5110 Big Data Systems: Agenda 01
 
 
 
@@ -59,8 +59,3 @@ You'll need to:
 | Brief Review NB: Programming Assignment |
 
 ---
-
-
-
----
-
