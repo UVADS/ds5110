@@ -55,7 +55,6 @@ You'll need to:
 | Review file structure, notebooks |
 | Brief Review NB: Big Data Systems Foundations |
 | Brief Review NB: Spark Getting Started |
-| Review file structure, notebooks |
 | Brief Review NB: Programming Assignment |
 
 ---
