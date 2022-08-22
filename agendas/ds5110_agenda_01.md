@@ -16,7 +16,7 @@
 
 ### Deliverables This Week
 
-- Programming Assignment: Module 1.4
+- Programming Assignment: Module 1.4 Jupyter Warmup
 
 ---
 
