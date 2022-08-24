@@ -7,7 +7,7 @@
 - Review Syllabus
 - HW solutions will be posted to Resources folder on Collab
 - Communications:
-  - Slack for IM
+  - Teams for IM
   - Email TA for grading questions
 - Provide your background in Collab Module 0
 - Review repo page: `setup.md`
