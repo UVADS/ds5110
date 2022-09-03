@@ -1,6 +1,6 @@
 ### Setting up Accounts
 
-Last updated: April 24, 2022
+Last updated: September 3, 2022
 
 ---
 
