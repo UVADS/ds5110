@@ -20,7 +20,8 @@
   - what is a schema and what are its benefits
   - how to use `withColumn()`
 
-- Programming Assignment M3.6 Commercial Data Analysis
+- Programming Assignment M3.6 Commercial Data Analysis  
+  Demo how to get dataset
 
 - Team Project Checkpoint (ungraded)
   - Research question/hypothesis
