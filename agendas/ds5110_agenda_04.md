@@ -2,7 +2,7 @@
 
 ### Admin Items
 
-- Create account: Databricks account  
+- Create account: Databricks Community Edition  
   See [here](https://github.com/UVADS/ds5110/blob/main/setup.md) for details
 
 ---
