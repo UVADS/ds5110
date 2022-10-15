@@ -20,11 +20,6 @@ Reminder: Twitter API Account Setup
   - how does Hive work
   - how to make database tables more searchable: partitioning, clustering
 
-
-- Programming Assignments: 
-  - finalize Amazon EC2 assignment
-
-
 ---
 
 - M8.11  Demo: Databricks - `databricks_intro_pyspark` notebook
