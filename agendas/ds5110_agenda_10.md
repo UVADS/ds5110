@@ -11,7 +11,7 @@
 
 ### Deliverables This Week
 
-1) Quiz:  
+1) **Quiz**  
 
   Be sure to understand:
   - what is a Dstream, what are its properties
@@ -25,7 +25,7 @@
   - what checkpointing does
   - accumulation methods
 
-2) Twitter assignment
+2) **Twitter assignment**
 
 
 ### Content
