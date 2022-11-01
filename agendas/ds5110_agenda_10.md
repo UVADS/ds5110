@@ -2,6 +2,7 @@
 
 ### Admin Items
 
+- Instructor Office Hours 11/2 will start at 12:30pm ET
 - Final Project Assignment  
   Should be:  
   - writing up results
