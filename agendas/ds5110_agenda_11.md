@@ -23,6 +23,8 @@ Be sure to understand:
 
 ### Content 
 
+- Brief discussion of Data Lake, Data Warehouse, Data Lakehouse
+
 - Intro to Delta Lakes: Review notebook
 
 - Kick off Programming Assignment: Criminal Expungement
