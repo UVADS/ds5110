@@ -15,3 +15,4 @@ At the conclusion of this module, you should be able to:
 - Demonstrate how to work with Jupyter Notebooks
 - Describe the MapReduce framework for big data analytics
 - Delineate Spark basic architecture and functionality
+- Progress toward executing an end-to-end predictive modeling project using a large dataset
