@@ -5,7 +5,7 @@ Next, you will learn about how to run a Spark application on a cluster.
 
 Note: The programming assignment this week is one of the more challenging ones. Be sure to leave adequate time.
  
-## LEARNING OBJECTIVES
+## LEARNING OUTCOMES
 
 At the conclusion of this module, you should be able to:
 
