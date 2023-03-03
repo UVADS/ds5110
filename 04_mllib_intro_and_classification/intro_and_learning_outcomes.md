@@ -16,4 +16,7 @@ At the conclusion of this module, you should be able to:
 
 - Implement classification models in MLlib
 
+- Understand the benefits of sparse vectors and matrices
+
 - Progress toward executing an end-to-end predictive modeling project using a large dataset
+
