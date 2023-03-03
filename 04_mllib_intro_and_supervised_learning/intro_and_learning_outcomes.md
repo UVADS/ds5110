@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-In this module, you will get an overview of machine learning in PySpark using the MLlib package. Then, you will learn how to implement classification tasks and build your own classification model, working with a tumor dataset.
+In this module, you will get an overview of machine learning in PySpark using the MLlib package. Then, you will learn how to implement classification and regression tasks.
 
 Important point about MLlib:
 MLlib supports two interfaces for implementing machine learning.
@@ -15,6 +15,8 @@ At the conclusion of this module, you should be able to:
 - Apply the basics of the MLlib library in PySpark
 
 - Implement classification models in MLlib
+
+- Implement linear regression models in MLlib
 
 - Understand the benefits of sparse vectors and matrices
 
