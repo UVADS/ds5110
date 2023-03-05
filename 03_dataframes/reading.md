@@ -9,4 +9,4 @@ Chapter 3, Apache Spark’s Structured APIs
 
 Chapter 4: Spark SQL and DataFrames: Introduction to Built-In Data Sources
 
-Optional Reading on SQL Spark, DataFrames, and RDDs to solidify understandingLinks to an external site.
+Optional [Reading](https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f) on SQL Spark, DataFrames, and RDDs to solidify understanding
