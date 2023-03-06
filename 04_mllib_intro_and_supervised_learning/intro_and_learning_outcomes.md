@@ -1,6 +1,7 @@
 ## INTRODUCTION
 
-In this module, you will get an overview of machine learning in PySpark using the MLlib package. Then, you will learn how to implement classification and regression tasks.
+In this module, we will begin by learning about sparse vectors and matrices. Spark uses these objects heavily to reduce processing and storage requirements.
+Next, we will begin using the Spark MLlib package for machine learning. Then you will start using MLlib to implement classification and regression models. 
 
 Important point about MLlib:
 MLlib supports two interfaces for implementing machine learning.
