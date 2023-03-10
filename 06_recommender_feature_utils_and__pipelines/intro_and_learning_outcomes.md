@@ -6,7 +6,7 @@ In this module, you will begin by learning about recommender systems and then mo
 
 At the conclusion of this module, you should be able to:
 
-Implement recommender systems in PySpark using collaborative filtering.
-Execute the MLlib feature utilities package.
-Construct machine learning pipelines.
-Progress toward executing an end-to-end predictive modeling project using a large dataset.
+- Implement recommender systems in PySpark using collaborative filtering.
+- Execute the MLlib feature utilities package.
+- Construct machine learning pipelines.
+- Progress toward executing an end-to-end predictive modeling project using a large dataset.
