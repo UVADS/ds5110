@@ -14,6 +14,6 @@ At the conclusion of this module, you should be able to:
 - Understand how hot spots lead to data skew
 - Identify the need for partition rebalancing and strategies that support it
 - Understand common types of network faults
-- Examine the concepts and use cases behind Apache Kafka
-- Describe the pub/sub model
+- Explain the concepts and benefits of Apache Kafka
+- Describe the pub/sub model and its benefits
 - Progress toward executing an end-to-end predictive modeling project using a large dataset
