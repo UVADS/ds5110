@@ -9,5 +9,6 @@ At the conclusion of this module, you should be able to:
 
 - Apply the concepts behind streaming systems.
 - Execute the Spark Streaming library.
+- Understand the important concepts and objects in Spark Streaming
 - Compute analytics using Spark Streaming.
 - Progress toward executing an end-to-end predictive modeling project using a large dataset.
