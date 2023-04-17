@@ -6,8 +6,8 @@ In this module, you will begin by learning about data lakes and their limitation
 
 At the conclusion of this module, you should be able to:
 
-- Explain the properties of data lakes and data lakehouses
-- Explain the shortcomings of data lakes and how data lakehouses address these shortcomings
+- Explain the properties of data lakes, data warehouses, and data lakehouses
+- Explain the shortcomings of data lakes and data warehouses, and how data lakehouses address these shortcomings
 - Work with Apache Delta lakes to implement their salient features (create, delete, update, conditional update, time travel)
 - Explain the benefits of Delta lakes
 - Progress toward executing an end-to-end predictive modeling project using a large dataset.
