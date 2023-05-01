@@ -19,3 +19,5 @@ The course has three areas of focus:
 Students enjoy the group project
 
 Reminder that each student writes their own code in lab assignments
+
+
