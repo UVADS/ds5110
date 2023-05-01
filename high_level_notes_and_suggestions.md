@@ -1,4 +1,5 @@
 ### Notes for Students and Instructors
+
 ---
 
 The most challenging topics for students have been 1) parsing text with RDDs and 2) understanding parallel computing concepts
