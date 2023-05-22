@@ -9,14 +9,16 @@
 - Communications:
   - Teams for IM
   - Email TA for grading questions
-- Provide your background in Collab Module 0
+- Provide your background in Teams 
 - Review repo page: `setup.md`
 
 ---
 
 ### Deliverables This Week
 
-- Programming Assignment: Module 1.4 Jupyter Warmup
+- Quiz: Big Data Intro
+- Lab 1: Python Warmup and Logfile Analytics
+
 
 ---
 
