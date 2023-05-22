@@ -26,12 +26,10 @@
 
 | Key       | Value |
 | ----------- | :-----------: |
-| Partition      | Dev, Standard or Instructional* |
-| Number of hours | 1 |
-| Memory request | 7 |
-| Number of cores | 1 |
+| Rivanna Partition | Dev, Standard or Instructional* |
 | Work Directory | HOME |
 | Allocation| ds5559 |
+| Show Additional Options| No |
 
 Notes:    
 * Instructional partition is less crowded as it's dedicated for this class  
