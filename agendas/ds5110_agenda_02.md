@@ -4,14 +4,14 @@
 
 ### Admin Items
 
-Projects: Team membership can be found on Collab Overview
+Projects: Team membership can be found on Canvas Home page
 
 ---
 
 ### Deliverables This Week
 
-- Quiz: Module 2.6 Quiz - Spark Fundamentals
-- Programming Assignment: Module 2.10 Analytics on Social Data
+- Quiz: Spark Fundamentals
+- Lab: Analytics on Social Data
 
 ---
 
@@ -24,7 +24,7 @@ Projects: Team membership can be found on Collab Overview
 - Review Pair RDDs notebook
   - transformations
   - working w bigrams
-- Review the Programming Assignment
+- Review the Lab Assignment
 
 --- 
 
