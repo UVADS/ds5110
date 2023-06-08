@@ -16,8 +16,8 @@
 
 ### Spark SQL and DataFrames
 
-- Review M4.6 MLlib
-- Review M4.7 MLlib Classification
-- Review Lab on Supervised Learning
+- Review Sparsity NB
+- Review Classification NB
+- Review Regression NB
 
 
