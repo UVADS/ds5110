@@ -1,11 +1,5 @@
 ## DS 5110 Big Data Systems: Agenda 04
 
-### Admin Items
-
-- Create account: Databricks Community Edition  
-  See [here](https://github.com/UVADS/ds5110/blob/main/setup.md) for details
-
----
 
 ### Deliverables This Week
 
@@ -16,7 +10,7 @@
   - there are two APIs in the MLlib package. Newer one supports DataFrames, and older one supports RDDs.
 
 
-- Programming Assignment M4 Classification
+- Lab on Supervised Learning
 
 ---
 
@@ -24,8 +18,6 @@
 
 - Review M4.6 MLlib
 - Review M4.7 MLlib Classification
-- Review M4.8 Programming Assignment: Tumor Classification
+- Review Lab on Supervised Learning
 
---- 
 
-### Team Project Breakout
