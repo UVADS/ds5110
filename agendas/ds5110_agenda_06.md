@@ -2,7 +2,7 @@
 
 ### Admin Items
 
-- Instructor office hours: Sun 8:30pm-9:30pm ET
+- No live session July 4; I will post recorded session by that meeting time
 
 ---
 
@@ -11,8 +11,9 @@
 - Quiz: 
   - requirements of a transformer
   - benefits of pipelines
+  - recommender systems (high-level concepts)
 
-- Programming Assignment: Recommender Systems Using Music Tracks from Autoscrobbler
+- Lab: Recommender Systems Using Music Tracks from Autoscrobbler
 
 - Final Project Assignment (ungraded)
 training and evaluating models and have saved at least one model. 
@@ -25,8 +26,12 @@ training and evaluating models and have saved at least one model.
 
 - Review Jupyter Notebook: ML Pipelines
 
+- Review Jupyter Notebook: Recommender Systems
+
 - Kickoff programming assignment: Recommender Systems
 
 --- 
 
 ### Team Project Breakout
+
+time permitting
