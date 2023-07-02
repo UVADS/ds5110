@@ -1,39 +1,30 @@
 ## DS 5110 Big Data Systems: Agenda 07
 
-### Admin Items
-
-- Instructor office hours: Sun 8:30pm-9:30pm ET
-
 ---
 
 ### Deliverables This Week
 
-- Quiz: 
-  - SVD is MORE numerically stable compared to PCA
+- Quiz: Model Tuning and Topic Modeling
   - CrossValidator
     which inputs should be passed?
-  -Compare CrossValidator vs TrainValidationSplit
+  - Compare CrossValidator vs TrainValidationSplit
+  - Topic modeling questions will be high level:
+    - how does Spark help?
+    - what is the code doing?
 
-- Programming Assignment: Building Supervised Learning Tools
+- Lab: Model Tuning and Topic Modeling
 
 ---
 
-- Review Jupyter Notebook: Dimension Reduction
-  - Dim reduction particularly important w big data (want to reduce compute time, storage)
-
-  - Walk thru PCA, SVD examples
-
-
-- Review Jupyter Notebook: ML Model Selection and Tuning
+- Review Jupyter Notebook: Model Tuning
   - CrossValidator
     for k-fold cross validation
   - TrainValidationSplit
     only one split
+    
+- Review Jupyter Notebook: Topic Modeling
 
-- Kickoff programming assignment: Building Supervised Learning Tools
+- Kick off lab: Topic Modeling
 
-- Continue training and evaluating models for this week; nothing to submit
+- Project: Continue training and evaluating models for this week; nothing to submit
 
---- 
-
-### Team Project Breakout
