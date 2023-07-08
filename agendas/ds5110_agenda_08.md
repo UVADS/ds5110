@@ -3,28 +3,26 @@
 ### Admin Items
 
 This module does not have:  
-- programming assignment
+- a lab
 - jupyter notebooks
 
 It contains more videos (some with yours truly)
-
-Reminder: Twitter API Account Setup
 
 
 ---
 
 ### Deliverables This Week
 
-- Quiz: 
-  - be sure to familiarize with properties of HDFS: types of machines, redundancy, storage
-  - how does Hive work
-  - how to make database tables more searchable: partitioning, clustering
+- Quiz on AWS services
+- Lab on Amazon S3 due at end of this module
+- Begin Lab on Amazon S3/IAM/EC2 due at end of next module
+- Submit journal entries for modules 5-8
 
 ---
 
-- M8.11  Demo: Databricks - `databricks_intro_pyspark` notebook
+- Demo of Amazon EC2
 
-- M9.11 AWS Educate Exercise: Configure & Launch AWS EC2 Instance
+- Demo of Amazon S3
 
 - Continue training and evaluating models for this week; nothing to submit
 
