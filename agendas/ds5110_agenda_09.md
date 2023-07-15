@@ -1,37 +1,21 @@
 ## DS 5110 Big Data Systems: Agenda 09
 
-### Admin Items
-
-- 9.10 Final Project Assignment  
-  begin writing up your results as part of your final paper and presentation 
-
-- 9.14 Illustrates Using Amazon S3 SDK to Interface with Python
-
-- Instructor Office Hours this week: Wed noon Eastern
-
----
-
 ### Deliverables This Week
 
-1) Quiz:  
+1) Quiz: Distributed Data and Kafka
 
-  Be sure to understand:
- - know when each AWS storage solution is useful  
- - benefits of EC2
- - EC2 instances
+2) Lab: Connecting Amazon Services: S3, IAM, EC2
 
-2) AWS S3 - Module 9.12: Build static website (we review today)
-
-3) Kafka assignment
+3) Lab: Kafka assignment
 
 
 ### Content
  
 - Demo: Kafka overview - review notebook
 
-- Demo: AWS S3 - Module 9.12: Build static website
+- Review slides: Consistent Hashing
 
-- Kickoff Programming Assignment: Streaming Messages with Apache Kafka
+- Kickoff Lab: Streaming Messages with Apache Kafka
 
   Be sure you have installed: Java SE Development Kit  
   * instructions below  
@@ -50,5 +34,5 @@ Source: https://www.oracle.com/java/technologies/javase-downloads.html
 Find the relevant installer for your OS  
 1. install  
 2. modify Environment Variables > System variables > Path  
-you will set the path to point to the bin directory. For example on windows:  
+you will set the path to point to the bin directory. For example on Windows:  
 C:\Program Files\Java\jdk-16\bin 
