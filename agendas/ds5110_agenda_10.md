@@ -26,7 +26,7 @@
   - what checkpointing does
   - accumulation methods
 
-2) **Twitter assignment**
+2) Lab: Kafka assignment
 
 
 ### Content

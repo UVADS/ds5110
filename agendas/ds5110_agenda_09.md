@@ -6,8 +6,6 @@
 
 2) Lab: Connecting Amazon Services: S3, IAM, EC2
 
-3) Lab: Kafka assignment
-
 
 ### Content
  
