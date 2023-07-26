@@ -2,7 +2,6 @@
 
 ### Admin Items
 
-- Instructor Office Hours 11/2 will start at 12:30pm ET
 - Final Project Assignment  
   Should be:  
   - writing up results
@@ -35,7 +34,7 @@
 
 - Spark Streaming overview: review notebook
 
-- Kick off Programming Assignment: Streaming Analytics with the Twitter API
+- Kick off Lab: Kafka
 
 --- 
 
