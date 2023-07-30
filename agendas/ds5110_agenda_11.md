@@ -6,7 +6,7 @@
   - complete writing up your results
   - finalizing presentation
   - finalizing coding
-  - Presentations on 12/29
+  - Presentations in final live session August 8
 
 ---
 
@@ -27,11 +27,7 @@ Be sure to understand:
 
 - Intro to Delta Lakes: Review notebook
 
-- Kick off Programming Assignment: Criminal Expungement
-
---- 
-
-### Team Project Breakout (time permitting)
+- Kick off Lab: Criminal Expungement
 
 ---
 
