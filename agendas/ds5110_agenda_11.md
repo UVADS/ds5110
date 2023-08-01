@@ -8,6 +8,8 @@
   - finalizing coding
   - Presentations in final live session August 8
 
+- We will work with Databricks for this module
+
 ---
 
 ### Deliverables This Week
@@ -18,7 +20,7 @@ Be sure to understand:
 - features of Delta Lake
 - how to implement the features of Delta Lake (time travel, upserts, reading, writing)
 
-2) **Delta lakes assignment**
+2) **Lab: Delta lakes**
 
 
 ### Content 
