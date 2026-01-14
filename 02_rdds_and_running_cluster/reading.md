@@ -1,6 +1,6 @@
 ## Reading
 
-This reading assignment introduces you to RDDs and Pair RDDs.  
+The reading assignment introduces you to RDDs and Pair RDDs.  
 
-Learning PySpark textbook:
+Learning PySpark textbook:  
 Chapter 2. Resilient Distributed Datasets
