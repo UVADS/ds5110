@@ -10,8 +10,8 @@ Questions for Discussion:
 ---
 
 Learning Spark textbook:
-- Chapter 1, Introduction to Apache Spark: A Unified Analytics Engine
-- Chapter 2, Downloading Apache Spark and Getting Started
+- Chapter 1. Introduction to Apache Spark: A Unified Analytics Engine
+- Chapter 2. Downloading Apache Spark and Getting Started
 
 [Primer on Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/)  
 
