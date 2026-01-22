@@ -4,8 +4,6 @@ Last updated: January 22, 2026
 
 ---
 
-#### Purpose
-
 You'll want to start using Rivanna in the first week.  
 Be sure to request access to AWS in weeks 1-2.
 
