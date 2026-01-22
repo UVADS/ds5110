@@ -1,0 +1,9 @@
+Parsing with regex in PySpark
+
+Windowed aggregations over time
+
+Error-rate monitoring
+
+Component-level performance analysis
+
+Building streaming pipelines that consume logs 
