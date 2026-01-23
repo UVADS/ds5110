@@ -13,8 +13,8 @@ These practices will help:
 
 The course has three areas of focus:
 - Using Spark for batch processing, stream processing, ML, and analytics
-- Big data and cloud computing tools - learning concepts and using tools
-- Working on team project with Spark MLlib
+- Big data and cloud computing - learning concepts and using tools
+- Working on team project
 
 Students enjoy the group project
 
