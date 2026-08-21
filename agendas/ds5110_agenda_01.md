@@ -7,7 +7,6 @@
 - Review Syllabus
 - Review Canvas
 - Communications:
-  - Teams for IM
   - Email TA for grading questions
 - Review repo page: `setup.md`
 
@@ -15,7 +14,7 @@
 
 ### Upcoming Deliverables
 
-Due Friday, May 29, 2026 at 11:59pm ET:
+Due Friday, Sep 4 at 11:59pm ET:
 - Module 1 Quiz: Foundations of Big Data Systems
 
 
