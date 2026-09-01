@@ -19,13 +19,18 @@ Due Friday, Sep 11 at 11:59pm ET:
 ---
 
 - Brief review from last time: map_reduce_framework.ipynb
-- Discuss MapReduce paper
+- Discuss MapReduce paper:  
+  What are the benefits of MapReduce?  
+  At a high level, how does it work? (what are the big ideas?)  
+  What are stragglers and how are they handled?  
+  How are these events handled: worker failure? driver failure?  
+
 - Review notebook: Running Spark on a cluster
   - Discusses cores / nodes / driver / worker / executor
   - Job / Stage / Task
 
 - Review notebook: RDDs
-- Review lab: lab_python_and_logfile.ipynb
-
+- Live demo: review and category analytics
+- Meet your teammates
 
 ---
