@@ -6,6 +6,8 @@ This is the original paper that introduced the MapReduce framework.
 Questions for Discussion:  
 - What are the benefits of MapReduce?
 - At a high level, how does it work? (what are the big ideas?)
+- What are stragglers and how are they handled?
+- How are these events handled: worker failure? driver failure?
 
 ---
 
