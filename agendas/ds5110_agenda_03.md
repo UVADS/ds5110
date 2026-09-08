@@ -19,6 +19,7 @@ Due Friday, Sep 18 at 11:59pm ET:
 
 - Notebook: Data ingestion
 - Notebook: Spark Dataframes and Spark SQL
+- Slides: Spark_SQL_Join_Strategies
 - Review Lab Assignment
 
 --- 
