@@ -9,9 +9,9 @@ Due Friday, Sep 18 at 11:59pm ET:
 
 Due Friday, Sep 25 at 11:59pm ET:
 
-Lab 3: Build Static Website with Amazon S3
-Quiz 4: Distributed Storage
-Journaling: Modules 1-4
+- Lab 3: Build Static Website with Amazon S3
+- Quiz 4: Distributed Storage
+- Journaling: Modules 1-4
 
 ---
 
