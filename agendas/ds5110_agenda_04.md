@@ -27,7 +27,7 @@ Due Friday, Sep 25 at 11:59pm ET:
   - Filesystems
   - Amazon S3
   - HDFS
-- Review Amazon S3 lab
+- Demo: Amazon S3 lab
 
 --- 
 
