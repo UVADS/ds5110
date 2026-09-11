@@ -13,7 +13,9 @@ Due Friday, Sep 25 at 11:59pm ET:
 - Quiz 4: Distributed Storage
 - Journaling: Modules 1-4
 
----
+--- 
+
+## Content
 
 - Slides: Parquet files
   - columnar storage
