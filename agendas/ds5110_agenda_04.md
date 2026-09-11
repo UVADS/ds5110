@@ -2,6 +2,8 @@
 
 ---
 
+### Deliverables
+
 Due Friday, Sep 18 at 11:59pm ET:
 - Lab 2: Commercial Data Analysis
 - Quiz 3: Data Ingestion, Spark SQL and DataFrames
@@ -15,7 +17,7 @@ Due Friday, Sep 25 at 11:59pm ET:
 
 --- 
 
-## Content
+### Content
 
 - Slides: Parquet files
   - columnar storage
