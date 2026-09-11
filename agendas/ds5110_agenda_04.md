@@ -23,6 +23,10 @@ Due Friday, Sep 25 at 11:59pm ET:
   - columnar storage
   - predicate pushdown with statistics
 - Slides: Distributed storage
+  - Objects
+  - Filesystems
+  - Amazon S3
+  - HDFS
 - Review Amazon S3 lab
 
 --- 
