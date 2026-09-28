@@ -12,18 +12,17 @@ Due Friday, Oct 2 at 11:59pm ET:
 
 Due Friday, Oct 9 at 11:59pm ET:
 
-- CAP Theorem slides
-- Hotspot demo
-- Database lock demo
-- Notebook on sparsity (time permitting)
+- Lab 5: Supervised Learning
+- Quiz 6: Sparsity, MLlib Classification and Regression
 
 --- 
 
 ### Content
 
-- Slides: Consistent hashing
-- Slides: Schema evolution
-- Demo: Connecting Amazon Services: S3, IAM, EC2
+- CAP Theorem slides
+- Hotspot demo
+- Database lock demo
+- Notebook on sparsity (time permitting)
 
 --- 
 
