@@ -22,7 +22,7 @@ Due Friday, Oct 9 at 11:59pm ET:
 - CAP Theorem slides
 - Hotspot demo
 - Database lock demo
-- Notebook on sparsity (time permitting)
+- Notebook on sparsity
 
 --- 
 
