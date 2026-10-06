@@ -18,7 +18,7 @@ Due Friday, Oct 9 at 11:59pm ET:
 
 ### Activities
 
-- Slides: MLlib Implementation Details
+- Slides: MLlib Method Summary and Implementation Details
 
 - Review Classification NB
   - ML in Spark
@@ -28,7 +28,5 @@ Due Friday, Oct 9 at 11:59pm ET:
 
 - Review Regression NB
   - fit, transform, evaluate
-
-- Slides: MLlib Method Summary
 
 - Review MLlib lab
