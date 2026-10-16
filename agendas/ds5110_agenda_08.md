@@ -23,5 +23,4 @@ Due Friday, Oct 23 at 11:59pm ET:
 - Review notebook: MLlib – Clustering
 - Review slides: k-means Extensions
 - Review Lab: Clustering Fidelity Mutual Funds
-- [time permitting] Review Dimension Reduction NB
 
