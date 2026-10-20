@@ -17,7 +17,6 @@ Due Friday, Oct 30 at 11:59pm ET:
 ### Dimension Reduction and Clustering
 
 - Review Dimension Reduction NB
-- Review slides on SVD
 - Review Jupyter Notebook: Recommender Systems
 - Kick off programming assignment: Recommender Systems
-- Review Jupyter Notebook: ML Pipelines
+- [time permitting] Review Jupyter Notebook: ML Pipelines
