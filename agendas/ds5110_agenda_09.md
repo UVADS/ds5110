@@ -19,4 +19,4 @@ Due Friday, Oct 30 at 11:59pm ET:
 - Review Dimension Reduction NB
 - Review Jupyter Notebook: Recommender Systems
 - Kick off programming assignment: Recommender Systems
-- [time permitting] Review Jupyter Notebook: ML Pipelines
+- Review Jupyter Notebook: ML Pipelines
