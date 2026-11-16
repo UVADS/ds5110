@@ -8,11 +8,9 @@
 
 ### Deliverables Due Wed, Dec 2 at 11:59pm ET:
 - Module 12 Quiz: Security and Governance
-
-Due Wednesday, Dec 2 at 11:59pm ET:
 - Final Project Presentation
 
-Due Tuesday, Dec 8 at 11:59pm ET:
+### Deliverables Due Tuesday, Dec 8 at 11:59pm ET:
 - Final Project Code
 - Final Project Paper
 
